@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**zZnghialamZz/zZnghialamZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, I'm Nghia, a passionate game developer - game designer lived in Ho Chi Minh City, Vietnam.
 
 Shortly after graduated from AUT, I joined Glass Egg as a quality-oriented Technical Artist for over 3 years. At Glass Egg, I participated in cross production team to develop & manage tools, pipelines and workflow for productivity and efficiency.
