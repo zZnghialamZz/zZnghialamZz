@@ -6,7 +6,7 @@ Shortly after graduated from AUT, I joined Glass Egg as a quality-oriented Techn
 
 Presently, I'm deepening and working as a Game Developer with various interesting projects daily.
 
-- 🔭 I’m currently working on *PENGUIN*
+- 🔭 I’m currently working on [Ethan](https://github.com/zZnghialamZz/Ethan) 
 - 🌱 I’m currently learning *Game Dev*
 - 💬 More info about me [here](zznghialamzz.github.io) 
 - 📫 How to reach me: <nghialam12795@gmail.com>
